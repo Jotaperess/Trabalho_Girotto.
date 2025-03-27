@@ -26,6 +26,17 @@ Este projeto é composto por três minijogos: **Pergunta e Resposta**, **Cobra n
 - Caso um jogador tenha uma Gousma morta e uma com mais de 1 de fúria, ele pode dividir sua Gousma e voltar a ter duas.
 - O jogo continua até um jogador perder todas as suas Gousmas.
 
+### 4. Partes com ajuda de i.a
+- No jogo Gousmas foi solicitada ajuda ao chatgpt para corrigir o código na parte em que o usuario solicita a divisão.
+- No projeto todo eu usei 3 subprogamas, um para cada jogo, fiquei sabendo sobre a possibilidade de criar um apartir da conversa com a i.a.
+
+
+
+
+
+
+
+
   ## Sobre o Desenvolvedor
 
 Nome: JOÃO PAULO OLIVEIRA RODRIGUES
